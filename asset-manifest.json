@@ -1,32 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3b3cfef.css",
-    "main.js": "/static/js/main.62b76797.js",
+    "main.css": "/static/css/main.8edc99a4.css",
+    "main.js": "/static/js/main.331b08de.js",
     "static/media/project6.png": "/static/media/project6.621a7de0286df3ea5fa8.png",
     "static/media/project2.png": "/static/media/project2.e212613fec4043780d42.png",
     "static/media/project1.png": "/static/media/project1.714a913d51888bb819e9.png",
     "static/media/pic2.jpg": "/static/media/pic2.925f9ccd949f461d1a82.jpg",
-    "static/media/Pic1.jpg": "/static/media/Pic1.6dbe0e884f7eefa01fac.jpg",
-    "static/media/Resume_Chinmay_Bhate_2023.pdf": "/static/media/Resume_Chinmay_Bhate_2023.4dd3c6495fb9553ae6b2.pdf",
+    "static/media/Resume_Chinmay_Bhate.pdf": "/static/media/Resume_Chinmay_Bhate.59edfa88d52921913367.pdf",
+    "static/media/Bkground.jpg": "/static/media/Bkground.e7c19e2060a26879ba1c.jpg",
     "static/media/RIT_GCCIS.png": "/static/media/RIT_GCCIS.f89866cd8cf6829fe60a.png",
     "static/media/project5.jpeg": "/static/media/project5.1bd5b3259085f51c2123.jpeg",
     "static/media/project4.jpg": "/static/media/project4.4ed7060c37e46766e802.jpg",
+    "static/media/azure.png": "/static/media/azure.d5d9446bd01354465a72.png",
     "static/media/React-icon.png": "/static/media/React-icon.428839d4924b447d4d50.png",
+    "static/media/aws.png": "/static/media/aws.d424dbd7fd74246e774c.png",
     "static/media/project3.png": "/static/media/project3.9cc0aa8ec525183778cf.png",
     "static/media/Postgres.png": "/static/media/Postgres.543d2f68d70043ec73ee.png",
     "static/media/mongodb.png": "/static/media/mongodb.4d1763a20af23f3dbc1d.png",
+    "static/media/ecolab.png": "/static/media/ecolab.2f0b11f22ae7dcab204d.png",
     "static/media/spring.png": "/static/media/spring.953ee24309fa38748981.png",
     "static/media/java.png": "/static/media/java.e238a2c40e6eaec570bc.png",
     "static/media/Flask.png": "/static/media/Flask.8196d0c179658acb9c86.png",
     "static/media/firebase.png": "/static/media/firebase.dc1c7413fd0378dfc65f.png",
     "static/media/python.png": "/static/media/python.9c47735ea0c4a2d20349.png",
     "static/media/logo.svg": "/static/media/logo.f4882508032d6b8f095c85e21c04a24c.svg",
+    "static/media/snowflake.svg": "/static/media/snowflake.967022e2569d6b035897cf18f7c193a5.svg",
+    "static/media/docker.svg": "/static/media/docker.712661bd5a8c16251ce763045ab9a046.svg",
     "index.html": "/index.html",
-    "main.d3b3cfef.css.map": "/static/css/main.d3b3cfef.css.map",
-    "main.62b76797.js.map": "/static/js/main.62b76797.js.map"
+    "main.8edc99a4.css.map": "/static/css/main.8edc99a4.css.map",
+    "main.331b08de.js.map": "/static/js/main.331b08de.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3b3cfef.css",
-    "static/js/main.62b76797.js"
+    "static/css/main.8edc99a4.css",
+    "static/js/main.331b08de.js"
   ]
 }
